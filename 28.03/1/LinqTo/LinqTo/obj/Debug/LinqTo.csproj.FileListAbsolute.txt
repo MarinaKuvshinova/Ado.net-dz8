@@ -1,0 +1,6 @@
+E:\kv\28.03\1\LinqTo\LinqTo\bin\Debug\LinqTo.exe.config
+E:\kv\28.03\1\LinqTo\LinqTo\bin\Debug\LinqTo.exe
+E:\kv\28.03\1\LinqTo\LinqTo\bin\Debug\LinqTo.pdb
+E:\kv\28.03\1\LinqTo\LinqTo\obj\Debug\LinqTo.csprojResolveAssemblyReference.cache
+E:\kv\28.03\1\LinqTo\LinqTo\obj\Debug\LinqTo.exe
+E:\kv\28.03\1\LinqTo\LinqTo\obj\Debug\LinqTo.pdb
